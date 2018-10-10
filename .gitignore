@@ -72,5 +72,6 @@ substance_cache/
 # Adobe audition cache files
 *.pkf
 
-# Render folders
+# Render and folders for Houdini
 [Rr]ender/
+[Cc]ache/
