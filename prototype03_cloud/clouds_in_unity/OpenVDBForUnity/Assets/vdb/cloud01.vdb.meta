@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: fa53bb8202353492ea68631c8c0622ae
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: cloud01/cloud01
+    400000: cloud01/cloud01/Transform
+    2100000: Default Material
+    2300000: cloud01/cloud01/MeshRenderer
+    3300000: cloud01/cloud01/MeshFilter
+    4300000: cloud01
+    11400000: cloud01_VDBDesc
+    11700000: cloud01
+    100100000: cloud01
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8dbf4f10acd0347ee84d79cd77d0df3c, type: 3}
+  streamSettings:
+    scaleFactor: 0.01
+    importMaterials: 1
+    extractTextures: 0
+    extractMaterials: 0
+    textures: []
+    materials: []
